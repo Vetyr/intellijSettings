@@ -13,6 +13,7 @@
 | Ctrl + Alt + & | Split Vertically |
 | Ctrl + Shift + 1... | Add Bookmark 1... |
 | Ctrl + 1... | Go to Bookmark 1... |
+| Ctrl + I | Auto Indent (after Ctrl+A) |
 
 
 ### Snippets
