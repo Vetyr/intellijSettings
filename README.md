@@ -21,6 +21,10 @@
 ### Snippets
 ---
 
+| Abbreviation | Template Text |
+| ------ | ------ |
+| sd    | console.log($val$); |
+
 License
 ----
 
