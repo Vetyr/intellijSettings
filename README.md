@@ -16,6 +16,8 @@
 | Ctrl + I | Auto Indent (after Ctrl+A) |
 | Alt + T | Open Terminal |
 | Alt + Shift + R | Rename |
+| Ctrl + D | Select Next Occurence |
+| Ctrl + Shift + D | Select All Occurences |
 
 
 ### Snippets
