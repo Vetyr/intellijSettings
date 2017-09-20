@@ -18,6 +18,9 @@
 | Alt + Shift + R | Rename |
 | Ctrl + D | Select Next Occurence |
 | Ctrl + Shift + D | Select All Occurences |
+| Alt + G - Alt + S | Git Push |
+| Alt + G - Alt + R | Git Pull |
+| Alt + G - Alt + C | Git Commit |
 
 
 ### Snippets
@@ -26,6 +29,14 @@
 | Abbreviation | Template Text |
 | ------ | ------ |
 | sd    | console.log($val$); |
+
+
+### Font
+---
+Font Source Code Pro -
+Size 14 -
+Line spacing 1.1
+
 
 License
 ----
