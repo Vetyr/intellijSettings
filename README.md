@@ -6,8 +6,7 @@
 | Key | Action |
 | ------ | ------ |
 | Ctrl + P | Navigate to file |
-| Ctrl + O | Navigate to Symbol |
-| Ctrl + P | Navigate to file |
+| Ctrl + O | Show structure |
 | Ctrl + W | Close (Tab opened) |
 | Ctrl + Alt + &larr; | Extends Selection |
 | Ctrl + Alt + & | Split Vertically |
