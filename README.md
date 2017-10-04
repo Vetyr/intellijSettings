@@ -20,6 +20,8 @@
 | Alt + G - Alt + S | Git Push |
 | Alt + G - Alt + R | Git Pull |
 | Alt + G - Alt + C | Git Commit |
+| Alt + G - Alt + A | Git Stash |
+| Alt + G - Alt + P | Git UnStash |
 
 
 ### Snippets
