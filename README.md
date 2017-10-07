@@ -23,6 +23,7 @@
 | Alt + G - Alt + A | Git Stash |
 | Alt + G - Alt + P | Git UnStash |
 | Ctrl + Y | Redo |
+| Ctrl + N - Ctrl + H | Create HTML File |
 
 
 ### Snippets
