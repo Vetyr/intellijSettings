@@ -22,6 +22,7 @@
 | Alt + G - Alt + C | Git Commit |
 | Alt + G - Alt + A | Git Stash |
 | Alt + G - Alt + P | Git UnStash |
+| Ctrl + Y | Redo |
 
 
 ### Snippets
@@ -30,6 +31,7 @@
 | Abbreviation | Template Text |
 | ------ | ------ |
 | sd    | console.log($val$); |
+| plink    | <link type=\"import" href="$file" /> |
 
 
 ### Font
