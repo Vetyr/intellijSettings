@@ -32,7 +32,7 @@
 | Abbreviation | Template Text |
 | ------ | ------ |
 | sd    | console.log($val$); |
-| plink    | <link type=\"import" href="$file" /> |
+| plink    | <link rel=\"import" href="$file" /> |
 
 
 ### Font
