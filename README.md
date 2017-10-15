@@ -24,6 +24,7 @@
 | Alt + G - Alt + P | Git UnStash |
 | Ctrl + Y | Redo |
 | Ctrl + N - Ctrl + H | Create HTML File |
+| Ctrl + N - Ctrl + J | Create Java Class |
 
 
 ### Snippets
