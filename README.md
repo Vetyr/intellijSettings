@@ -1,6 +1,6 @@
 # My settings
 
-### KeyMap
+### KeyMap 
 ---
 
 | Key | Action |
